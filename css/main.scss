@@ -47,3 +47,32 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.border {
+  border-left: 4px solid #e8e8e8;
+  padding-left: 15px;
+}
+//.border:hover {
+//  border-left: 4px solid #dbdbdb;
+//}
+
+.video {
+  border-left: 4px solid #e8e8e8;
+  padding-left: 15px;
+}
+.video:hover {
+  border-left: 4px solid #dbdbdb;
+}
+
+
+.image img+p, .video img+p {
+  padding: 10px 0 5px 0;
+}
+.image p, .video p {
+  font-style: italic;
+  color: #828282;
+}
+
+video {
+  cursor:pointer;
+}
