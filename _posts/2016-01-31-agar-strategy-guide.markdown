@@ -5,8 +5,13 @@ date:   2016-01-31 17:33:00
 categories: agar
 ---
 
-In this post, I will briefly introduce the game agar.io and then reveal some pro-tips you might find useful.
+In this post, I will briefly introduce the game agar.io in 
+[Game mechanics part 1](#game-mechanics-part-1---the-basics) 
+[and 2](#game-mechanics-part-2---viruses-and-eject-mass) 
+and then reveal some pro-tips
+in the [strategy section](#strategy-section).
 Examples will be illustrated with short clips wherever possible.
+The main goal being to show how rich strategy tactics can emerge from seemingly simple game mechanics. 
 
 ## The agar.io game
 
@@ -170,37 +175,110 @@ Well, because of this:
 
 ## Strategy section
 
+#### Generalities
+
+When on top of another, a cell needs to be about 110% to 120% the size of the other in order to eat it. 
+(Two cells of the exact same size will
+just pass through one another). And because splitting divides your cell in two, you need a cell about 3 times bigger
+than another to be able to reliably eat it by splitting onto it.
+
+Because smaller cells are faster, splitting-to-eat is the main way to eat another cell (because if you run towards a
+smaller cell, it will just escape by running away)
+
+This creates a dynamic where you tend to move towards cells that about 1/5th to 1/3rd of your size, and you avoid cells three to
+five times bigger. The reason that you are not attracted to smaller size cells is that splitting is expensive (because
+of the wait needed to recombine), so splitting onto smaller cells is not very efficient.
+
+*Note: When considering cell size, I am talking about average cell size (the cell might be split into many), and not total mass.
+This means that split cells are more attractive because easier to eat.*
+
+A corollary to the dynamic just mentioned is that when pursued by a predator P (say 4 times your mass), you can
+seek protection by approaching a still bigger cell Q (say 10 times your mass) because P will be scared by Q. And Q will
+most likely not split on you because you are a fraction of his size.
+
+<hr/>
+
+<br/>
+
+<em class='grey'>
+Below is a list of specific strategies, ordered roughly by personal preference, #1 being the best. Each are given an
+applicability and effectiveness score from 1 to 10. Applicability is how easy and how often can you apply the strategy.
+Effectiveness is how big a gain it provides.
+</em>
+
+### #10: Cornering <span class='grey small'>[aspects: positioning, applicability: 3, effectiveness: 9]</span>
+
+
+A very important aspect of the game is that the map is a 2d bounded plane. Cells cannot go past the edges and corners.
+Because smaller cells usually escape by being faster, pushing them against an edge or into a corner is a great way to
+eat them.
+
+Because there is no minimap, it is therefore important to mentally keep track of where the edges and corners are.
+ 
+Viruses are a great way to escape a cell that is cornering you, because the smaller cell can just go around the virus.
+Also, the smaller cell is more likely to pass through hole if there are many viruses, or viruses near edges.
+
+### Friendship and teams
+
+### Strategies related to splitting
+
 ----
 
 
+friendship/teaming
 
-<!--difficulty applicability effectiveness-->
-<!--bloop-->
+### #0 counter-feeding
 
-<!--friendship/teaming-->
-<!--signaling friendship-->
-<!--feeding []-->
-<!--counter-feeding-->
-<!--virus ejection-->
-<!--directed virus ejection-->
-<!--counter virus ejection [1,2]-->
-<!--defensive virus ejection-->
-<!--virus moonwalk-->
-<!--virus eating-->
+### #0 bait
 
-<!--cell relative-mass control-->
-<!--aggressive mass control-->
-<!--bait-->
+### #0 taunt by merge control
 
-<!--merge control-->
-<!--taunt by merge control-->
-<!--cornering-->
+### #0 defensive splitting
 
+### #0 splitting evasion
 
-<!--simple exploding-->
-<!--defensive splitting-->
+### #0 gavage
 
-<!--splitting evasion-->
-<!--satellite-->
-<!--gavage-->
+### #0 Tugboat <span class='grey small'>[aspects: positioning, applicability: 3, effectiveness: 3</span> 2:01
+ 
+### #0 Signaling friendship <span class='grey small'>aspects: teaming, applicability: 2, effectiveness: 5</span> 2:22
+
+### #0 Evading virus ejection<span class='grey small'>aspects: viruses, mass-ejection, applicability: 2, effectiveness: 5</span> 2:29, 14:20
+
+### #0 Script <span class='grey small'>aspects: mass-ejection, applicability: 5, effectiveness: 2</span> 2:33
+ 
+### #0 <span class='grey small'>aspects: mass-ejection, applicability: 4, effectiveness: 5</span> 2:40, 6:54, 10:40, 14:26 directed virus ejection (7:02 failed)
+
+### #0 Merge control<span class='grey small'>aspects: positioning, applicability: 5, effectiveness: 4</span> 6:00, 3:35, 9:14
+
+### #0 Cornering (with map) <span class='grey small'>aspects: positioning, applicability: 4, effectiveness: 5</span> 11:33, 12:37
+
+### #0 Cornering (with viruses) <span class='grey small'>aspects: positioning, applicability: 3, effectiveness: 5</span> 3:55, 8:18
+ 
+### #0 Cell relative-mass control <span class='grey small'>aspects: mass-ejection, applicability: 4, effectiveness: 4</span> 4:12, 8:44, 9:14
+ 
+### #0 Aggressive mass control <span class='grey small'>aspects: mass-ejection, applicability: 3, effectiveness: 5</span> 7:57, 11:41, 12:00
+ 
+### #0 Feed <span class='grey small'>aspects: mass-ejection, applicability: 4, effectiveness: 4</span> 4:29, 14:46
+ 
+### #0 Good aiming <span class='grey small'>aspects: splitting, applicability: 1, effectiveness: 5</span> 6:10
+ 
+### #0 Moonwalk <span class='grey small'>aspects: positioning, viruses, applicability: 4, effectiveness: 3</span> 6:17, 6:44, 6:52, 8:05
+ 
+### #0 Balzy split <span class='grey small'>aspects: splitting, applicability: 1, effectiveness: 4</span> 6:25
+ 
+### #0 Virus evasion <span class='grey small'>aspects: positioning, applicability: 1, effectiveness: 5</span> 6:37
+ 
+### #0 Counter virus ejection <span class='grey small'>aspects: mass-ejection, viruses, applicability: 2, effectiveness: 5</span> 7:01
+ 
+### #0 Double split <span class='grey small'>aspects: splitting, applicability: 2, effectiveness: 4</span> 9:44, 11:20
+ 
+### #0 Defensive virus ejection <span class='grey small'>aspects: mass-ejection, viruses, applicability: 3, effectiveness: 3</span> 10:11
+ 
+### #0 Satellite <span class='grey small'>aspects: viruses, applicability: 1, effectiveness: 5</span> 12:05
+ 
+### #0 Man-in-the-middle <span class='grey small'>aspects: positioning, applicability: 1, effectiveness: 5</span> 12:17
+ 
+### #0 Virus eating <span class='grey small'>aspects: viruses, applicability: 2, effectiveness: 4</span> 12:23, 13:03
+
 
