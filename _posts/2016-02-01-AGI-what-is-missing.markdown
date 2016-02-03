@@ -13,7 +13,7 @@ It's been a while since we heard great promises from AI proponents. Back in 1965
 > intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man 
 > need ever make, provided that the machine is docile enough to tell us how to keep it under control.
 
-Since then many have started actually question the unquestionable, and many others have tried to get us there. But
+Since then many have started to actually question the unquestionable, and many others have tried to get us there. But
 getting *just* to human level - or AGI - remains a challenge. On the positive side, Nick Bostrom 
 [argues](http://www.nickbostrom.com/superintelligence.html) that once AGI-level is reached, it won't be long before
 superintellignce. So let's just consider AGI as the main challenge.
@@ -67,7 +67,7 @@ but to get at the core of intelligence, I believe we have to dig deeper.
 
 To his credit, Jeff Hawkins makes a lot of great points in the book about why we should study the neocortex, why there is
 reason to believe in a simple unifying cortical algorithm, and his [HTM theory](http://numenta.org/) is quite solid. 
-Also gave a ted talk that started it all for me. He may have not written *the* book, but he definitely have made 
+He also gave a ted talk that started it all for me. He may not have written *the* book, but he definitely has made 
 [*the* talk]([that talk](http://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing)).
 
 ### The Pattern Recognition Theory of Mind (PTRM)
@@ -101,7 +101,7 @@ have no shortage of brilliant ideas. (Some of my favorites:
 [Analysis-by-Synthesis](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf),
 [Semantic Hashing](http://www.cs.toronto.edu/~hinton/absps/sh.pdf),
 [Generative models](http://www.cs.toronto.edu/~hinton/absps/ranzato_cvpr2011.pdf),
-tough almost every paper I read adds to my list of favorites)
+though almost every paper I read adds to my list of favorites)
 
 For more on deep learning, I would suggest the [coursera course of Hinton about neural nets](https://www.coursera.org/course/neuralnets).
 
@@ -111,7 +111,7 @@ But in the end, deep learning is just perception (the good news being that some 
 cells found in V1 in the visual neocortex). You feed in some sensory input, and you get a nice high-level description
 of what's there, as a hidden layer activation pattern.
 
-I think that deep learning techniques at least get us somewhere, I would go so far as say that it solves perception.
+I think that deep learning techniques at least get us somewhere, I would go so far as to say that it solves perception.
 All we have to do now is fit that into a bigger framework of what intelligence is.
  
 #### Little deep-learning tangent
@@ -137,8 +137,7 @@ handicapped by their lack to agency in the world they observe. For a child encou
 banana, the 'unsupervised' learning problem is made vastly easier by their ability to pick it up, 
 rotate it, squeeze it, twist it, peel it, break it, etc as they choose. 
 
-This is closely related to the recent with of deep mind with 
-[Neural Turing machines](http://arxiv.org/pdf/1410.5401v2.pdf) and 
+This is closely related to two recently published Deep Mind papers: [Neural Turing machines](http://arxiv.org/pdf/1410.5401v2.pdf) and 
 [Q-Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
 And the second part (spoiler alert: this might contain some deep insight)
@@ -161,7 +160,7 @@ Josh Tenenbaum [expresses this idea very nicely](https://www.youtube.com/watch?v
 Also the [lectures](http://videolectures.net/joshua_b_tenenbaum/) he gave are interesting. 
 
 The "Physics engine" or "Psychology engine" that Tenenbaum is talking about may well be the source of "priors" that
-[Like Hewitt](http://thinkingmachines.mit.edu/blog) mentioned above.
+[Luke Hewitt](http://thinkingmachines.mit.edu/blog) mentioned above.
 
 Indeed, in the abstract of the [Analysis-by-Synthesis paper](http://www.cs.toronto.edu/~fritz/absps/vinodicann.pdf), Hinton says:
  
@@ -217,5 +216,5 @@ be a way for an intelligent system to reuse parts of his knowledge to novel task
  
 # Closing toughts
 
-Upon reflection, I've not said what's missing, I've just listed a few ideas that might (or might not) get us there.
+Upon reflection, I've not said what's missing, I've just listed a few ideas that might (or might not) move us forward.
 The listing of those ideas took a bit longer than expected, so I'll  elaborate about *my* stab on the subject in a future post.
