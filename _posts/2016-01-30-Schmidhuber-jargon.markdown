@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Schmidhuber Jargon"
-date:   2016-01-30 23:10:00
+date:   2016-01-30 22:10:00
 categories: schmidhuber research ai
 ---
 
