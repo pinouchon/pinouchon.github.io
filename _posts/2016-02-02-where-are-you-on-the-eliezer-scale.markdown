@@ -24,5 +24,5 @@ being that short-term, low-hanging types of products tend to be simple improveme
 Also, higher rated ideas on this scale tend to require fundamental research and overall harder reasoning, including increased risk.
 
 What I would like to do, is simply ask the question: are you happy with where your project/product/research ends up on this scale ?
-I think we should, as a species, value more highly rated ideas more highly. (And besides, finding a glitch in the
+I think we should, as a species, value more highly items that rank high on this list. (And besides, finding a glitch in the
 universe would be pretty cool).                                            

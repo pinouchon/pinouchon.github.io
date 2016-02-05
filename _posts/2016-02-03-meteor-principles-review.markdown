@@ -5,13 +5,6 @@ date:   2016-02-03 22:40:00
 categories: meteor web programming
 ---
 
-I think the same of meteor as [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) thinks of 
-[Kurzweil latest book](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/1491518839) : a mix of many
-brilliant ideas, and others more questionable.
-
-> It’s as if you took a lot of very good food and some dog excrement and blended it all up so that you can’t possibly 
-figure out what’s good or bad
-
 Meteor started out with 7 principles (strangely, is does not show up anymore in [the docs](http://docs.meteor.com/), but anyway).
 Let's go through the list:
 
