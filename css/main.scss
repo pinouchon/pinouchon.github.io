@@ -56,6 +56,7 @@ $on-laptop:        800px;
 //  border-left: 4px solid #dbdbdb;
 //}
 
+///////////////////////////// VIDEOS //////////////////////////////////
 .video {
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
@@ -83,4 +84,23 @@ video {
 }
 .small {
   font-size: 18px;
+}
+
+///////////////////// TABLES ///////////////////////////
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #9c969a;
+}
+
+th {
+  padding: 3px 9px;
+  border: 2px solid #FFF;
+  background-color: #d8d8d8;
+}
+
+td {
+  padding: 3px 9px;
+  background-color: #eee;
+  border: 2px solid #FFF;
 }
