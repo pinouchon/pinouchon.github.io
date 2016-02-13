@@ -43,7 +43,7 @@ You are a cell. You start off by eating food.
 </div>
 <div>
   <em>
-    ← This actually is a video.
+    ← This is a video.
     To play it, mouse over it
   </em>
 </div>
@@ -202,83 +202,356 @@ most likely not split on you because you are a fraction of his size.
 
 <em class='grey'>
 Below is a list of specific strategies, ordered roughly by personal preference, #1 being the best. Each are given an
-applicability and effectiveness score from 1 to 10. Applicability is how easy and how often can you apply the strategy.
+applicability and effectiveness score from 1 to 5. Applicability is how easy and how often can you apply the strategy.
 Effectiveness is how big a gain it provides.
 </em>
 
-### #10: Cornering <span class='grey small'>[aspects: positioning, applicability: 3, effectiveness: 9]</span>
-
-
-A very important aspect of the game is that the map is a 2d bounded plane. Cells cannot go past the edges and corners.
-Because smaller cells usually escape by being faster, pushing them against an edge or into a corner is a great way to
-eat them.
-
-Because there is no minimap, it is therefore important to mentally keep track of where the edges and corners are.
  
-Viruses are a great way to escape a cell that is cornering you, because the smaller cell can just go around the virus.
-Also, the smaller cell is more likely to pass through hole if there are many viruses, or viruses near edges.
+### #1 directed virus ejection <span class='grey small'>applicability: 4, effectiveness: 5</span>
+This technique applies in the situation where you have multiple cells and you want to eject a virus. If you aim with
+your mouse the virus directly, all cells will shoot the virus, and the direction in which the virus will be ejected
+will be somewhat random (it will be determined by the bit of mass ejected by the last cell that makes the virus pop). To
+have control over the direction of the ejection, simply make it so only one of your many cells shoots into the virus.
+Usually, this will mean shooting mass into the enemy cell, but this slight cost is often worth it.
 
-### Friendship and teams
+<div class="video">
+  <video loop>
+      <source src="/images/agar/directed_virus_ejection2.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/directed_virus_ejection3.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/directed_virus_ejection4.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/directed_virus_ejection1.webm" />
+  </video>
+  <p>In this case, the ejection fails because the cell stops moving</p>
+</div>
 
-### Strategies related to splitting
+<!--6:00, 3:35, 9:14-->
 
-----
+### #2 Merge control <span class='grey small'>applicability: 5, effectiveness: 4</span>
+When your cells are about to merge, move them in a direction so that they do not merge for a long time. By doing so,
+you can choose to merge them on top of an enemy cell. This is also a good way to bait enemy cell and merge on them
+at the last moment.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/merge_control2.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/merge_control1.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/merge_control3.webm" />
+  </video>
+  <p></p>
+</div>
+
+<!--11:33, 12:37-->
+
+### #3 Cornering (with map) <span class='grey small'>applicability: 4, effectiveness: 5</span>
+Trap an enemy cell against a border or corner so that he cannot escape.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/cornering1.webm" />
+  </video>
+  <p></p>
+</div>
+
+<!--3:55, 8:18-->
+
+### #3-bis Cornering (with viruses) <span class='grey small'>applicability: 3, effectiveness: 5</span>
+Trap an enemy cell against a border, corner and/or virus so that he cannot escape.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/cornering2.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/cornering3.webm" />
+  </video>
+  <p></p>
+</div>
 
 
-friendship/teaming
+<!--7:57, 11:41, 12:00-->
 
-### #0 counter-feeding
+### #4 Aggressive mass control <span class='grey small'>applicability: 3, effectiveness: 5</span> 
+Eject mass between your cells to change their relative mass. This way, you can surprise an enemy cell and eat it.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/aggressive_mass_control1.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/aggressive_mass_control2.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/aggressive_mass_control3.webm" />
+  </video>
+  <p></p>
+</div>
 
-### #0 bait
+<!--4:12, 8:44-->
 
-### #0 taunt by merge control
+### #4-bis Cell relative-mass control <span class='grey small'>applicability: 4, effectiveness: 4</span>
+Same trick as above, but to have a few big cells instead of many small cells.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/cell_mass_control1.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/cell_mass_control2.webm" />
+  </video>
+  <p></p>
+</div>
 
-### #0 defensive splitting
+<!--6:17, 6:44, 6:52, 8:05-->
 
-### #0 splitting evasion
+### #5 Moonwalk <span class='grey small'>applicability: 4, effectiveness: 3</span>
+If you have two or more cells, you can pass on top of viruses. Handy to out-maneuver your opponents. 
+<div class="video">
+  <video loop>
+      <source src="/images/agar/moonwalk2.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/moonwalk3.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/moonwalk4.webm" />
+  </video>
+  <p></p>
+</div>
 
-### #0 gavage
 
-### #0 Tugboat <span class='grey small'>[aspects: positioning, applicability: 3, effectiveness: 3</span> 2:01
+<!--2:29, 14:20-->
+
+### #6 Evading virus ejection <span class='grey small'>applicability: 2, effectiveness: 5</span>
+If you see someone ejecting a virus, make sure the other guy explodes by retreating a bit. 
+<div class="video">
+  <video loop>
+      <source src="/images/agar/virus_evasion1.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/virus_evasion2.webm" />
+  </video>
+  <p></p>
+</div>
+
+### #7 Script <span class='grey small'>applicability: 5, effectiveness: 2</span>
+By pasting that in the chrome console, you can spam `w` just by keeping `x` pressed. 
+(the code could be greatly simplified, but it works in this form...)
+
+{% highlight javascript %}
+sindex = 0;
+
+function mySpam() {
+    sindex++;
+    window["onkeydown"]({keyCode: 87});
+    window["onkeyup"]({keyCode: 87});
+    window["onkeydown"]({keyCode: 87});
+    window["onkeyup"]({keyCode: 87});
+    if (sindex < 10) { setTimeout(mySpam, 10) }
+  }
+
+$(window).on('keydown', function(e) {
+console.log(e.which);
+  if (e.which == 88) {
+    var i;
+    for (i = 0; i < 4; i++) {
+      window["onkeydown"]({keyCode: 87});
+      window["onkeyup"]({keyCode: 87});
+      window["onkeydown"]({keyCode: 87});
+      window["onkeyup"]({keyCode: 87});
+    }
+  }
+
+if (e.which == 67) {
+  sindex = 0;
+  mySpam();
+    
+  }
+})
+{% endhighlight %}
+
+<div class="video">
+  <video loop>
+      <source src="/images/agar/script.webm" />
+  </video>
+  <p>Initializing the script while in-game</p>
+</div>
+
+<!--9:44, 11:20-->
+
+### #8 Double split <span class='grey small'>applicability: 2, effectiveness: 4</span>
+You can split twice to reach cells that are far away. 
+<div class="video">
+  <video loop>
+      <source src="/images/agar/double_split1.webm" />
+  </video>
+  <p></p>
+</div>
+<div class="video">
+  <video loop>
+      <source src="/images/agar/double_split2.webm" />
+  </video>
+  <p></p>
+</div>
+
+<!--7:01-->
+
+### #9 Counter virus ejection <span class='grey small'>applicability: 2, effectiveness: 5</span>
+When an enemy cell tryes to eject a virus on you, shoot in the virus right bewore it is about to pop, so that
+the virus is ejected in the opposite way. The timing is a bit random, but if you can pull it off, it is very effective.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/counter_virus_ejection.webm" />
+  </video>
+  <p></p>
+</div>
+
+<!--12:17-->
  
-### #0 Signaling friendship <span class='grey small'>aspects: teaming, applicability: 2, effectiveness: 5</span> 2:22
+### #10 Man-in-the-middle <span class='grey small'>applicability: 1, effectiveness: 5</span>
+Staying in the middle of two big cells is a way to evade.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/man_in_the_middle.webm" />
+  </video>
+  <p></p>
+</div>
 
-### #0 Evading virus ejection<span class='grey small'>aspects: viruses, mass-ejection, applicability: 2, effectiveness: 5</span> 2:29, 14:20
+<!--6:10-->
+ 
+### #11 Good aiming <span class='grey small'>applicability: 1, effectiveness: 5</span>
+Catching many cells in a single split
+<div class="video">
+  <video loop>
+      <source src="/images/agar/good_aiming.webm" />
+  </video>
+  <p></p>
+</div>
 
-### #0 Script <span class='grey small'>aspects: mass-ejection, applicability: 5, effectiveness: 2</span> 2:33
- 
-### #0 <span class='grey small'>aspects: mass-ejection, applicability: 4, effectiveness: 5</span> 2:40, 6:54, 10:40, 14:26 directed virus ejection (7:02 failed)
+<!--12:05-->
 
-### #0 Merge control<span class='grey small'>aspects: positioning, applicability: 5, effectiveness: 4</span> 6:00, 3:35, 9:14
+### #12 Satellite cell <span class='grey small'>applicability: 1, effectiveness: 5</span>
+When you have a small cell, you can use it to shoot into viruses, or eat them to catch a cell that is running away.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/satellite.webm" />
+  </video>
+  <p></p>
+</div>
 
-### #0 Cornering (with map) <span class='grey small'>aspects: positioning, applicability: 4, effectiveness: 5</span> 11:33, 12:37
+<!--12:23-->
 
-### #0 Cornering (with viruses) <span class='grey small'>aspects: positioning, applicability: 3, effectiveness: 5</span> 3:55, 8:18
- 
-### #0 Cell relative-mass control <span class='grey small'>aspects: mass-ejection, applicability: 4, effectiveness: 4</span> 4:12, 8:44, 9:14
- 
-### #0 Aggressive mass control <span class='grey small'>aspects: mass-ejection, applicability: 3, effectiveness: 5</span> 7:57, 11:41, 12:00
- 
-### #0 Feed <span class='grey small'>aspects: mass-ejection, applicability: 4, effectiveness: 4</span> 4:29, 14:46
- 
-### #0 Good aiming <span class='grey small'>aspects: splitting, applicability: 1, effectiveness: 5</span> 6:10
- 
-### #0 Moonwalk <span class='grey small'>aspects: positioning, viruses, applicability: 4, effectiveness: 3</span> 6:17, 6:44, 6:52, 8:05
- 
-### #0 Balzy split <span class='grey small'>aspects: splitting, applicability: 1, effectiveness: 4</span> 6:25
- 
-### #0 Virus evasion <span class='grey small'>aspects: positioning, applicability: 1, effectiveness: 5</span> 6:37
- 
-### #0 Counter virus ejection <span class='grey small'>aspects: mass-ejection, viruses, applicability: 2, effectiveness: 5</span> 7:01
- 
-### #0 Double split <span class='grey small'>aspects: splitting, applicability: 2, effectiveness: 4</span> 9:44, 11:20
- 
-### #0 Defensive virus ejection <span class='grey small'>aspects: mass-ejection, viruses, applicability: 3, effectiveness: 3</span> 10:11
- 
-### #0 Satellite <span class='grey small'>aspects: viruses, applicability: 1, effectiveness: 5</span> 12:05
- 
-### #0 Man-in-the-middle <span class='grey small'>aspects: positioning, applicability: 1, effectiveness: 5</span> 12:17
- 
-### #0 Virus eating <span class='grey small'>aspects: viruses, applicability: 2, effectiveness: 4</span> 12:23, 13:03
+### #13 Virus eating <span class='grey small'>applicability: 2, effectiveness: 4</span>
+When there are not many cells around, you can eat viruses to gain mass. Because you have a maximum of 16 cells,
+if you are big enough, after eating the first virus you will gain mass.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/virus_eating.webm" />
+  </video>
+  <p></p>
+</div>
 
+<!--2:01-->
 
+### #14 Tugboat <span class='grey small'>[applicability: 3, effectiveness: 3</span>
+This is about getting in a position where you have a small cell pushing a bigger cell, so that the bigger cell goes faster.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/tugboat.webm" />
+  </video>
+  <p></p>
+</div>
+
+<!--4:29, 14:46-->
+
+### #15 Feed <span class='grey small'>applicability: 4, effectiveness: 4</span>
+Feeding another player. The hard part is becoming friend with the other player, and making sure he doesn't betray you.
+<div class="video">
+  <video loop>
+      <source src="/images/agar/feed1.webm" />
+  </video>
+  <p></p>
+</div>
+
+<!--2:22-->
+
+### #16 Signaling friendship <span class='grey small'> [applicability: 2, effectiveness: 5]</span>
+Feeding just one time is usually a way to communicate the desire to become friends
+<div class="video">
+  <video loop>
+      <source src="/images/agar/signaling_friendship.webm" />
+  </video>
+  <p>Bloop, be my friend</p>
+</div>
+
+-----
+
+<br/>
+
+# Other techniques:
+Some other techniques that I've seen or used, but I do not have footage for them.
+
+### Bait <span class='grey small'>applicability: 1, effectiveness: 2</span>
+If you follow some cells and they are running away, you can try to eject mass in their direction to lure them
+back in. As they do, split to eat them. This will not work on experienced players as they will not fall in the trap.
+
+### Defensive splitting <span class='grey small'>applicability: 2, effectiveness: 4</span>
+If you are a single cell and an enemy cell splits on you, you can split away right the moment where the other player
+splits, and you will stay alive with 50% of your
+remaining mass.
+
+### Gavage <span class='grey small'>applicability: 1, effectiveness: 5</span>
+When you are pursuing an enemy cell, and it is about to evade by passing between a virus and an edge, you can give it mass
+so that it becomes too big and cannot pass anymore.
+
+---
+
+<br/>
+
+# Closing notes
+
+I hope that you now have a better idea of the many varieties of techniques that are possible in agar.io.
+
+The footage in this post is from a single agar session:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bHXmLu8gRIQ" frameborder="0" allowfullscreen></iframe>

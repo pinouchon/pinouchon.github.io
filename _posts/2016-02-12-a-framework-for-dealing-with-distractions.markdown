@@ -79,5 +79,5 @@ One last useful trick for deciding what activity to engage in: adopt the point o
 future self. This acts as a temptation-dispelling mechanism. From the point of view of your future self, impulsiveness
 of the actual you (that is in the past) plays no role.
 
-So for example, tell yourself at the beginning of the weekend: what future-me you like present-me to do
-right now. Or better yet: pretend that the weekend is finished, and ask: what do I with I would have done. Then do that.
+So for example, tell yourself at the beginning of the weekend: what future-me would like present-me to do
+right now. Or better yet: pretend that the weekend is finished, and ask: what do I wish I would have done. Then do that.
