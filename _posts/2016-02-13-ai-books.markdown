@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "AI Books"
+date:   2016-02-13 22:30:00
+categories: ai
+---
+
+List of AI books, with an approximate rating out of 10.
+
+Books I've read:
+
+ - [The quest for conciousness](http://www.amazon.com/The-Quest-Consciousness-Neurobiological-Approach/dp/0974707708), Christof Koch (7)
+ - [On intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533), Jeff Hawkins (8)
+ - [GEB](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567), Douglas Hofstadter  (9)
+ - [Fluid concepts and creative analogies](http://www.amazon.com/Fluid-Concepts-Creative-Analogies-Fundamental/dp/0465024750),  Douglas Hofstadter  (9)
+ - [Superintelligence](http://www.amazon.com/Superintelligence-Paths-Dangers-Strategies/dp/B00LPMFE9Y), Nick Bostrom (9.5)
+ - [How the mind works](http://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/0393334775), Steven Pinker (9)
+ - [How to create a mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048), Raw Kurzweil (5)
+
+Next on the list:
+
+ - [Surfaces and Essences: Analogy as the Fuel and Fire of Thinking](http://www.amazon.com/Surfaces-Essences-Analogy-Fuel-Thinking-ebook/dp/B00BE65086), Douglas Hofstadter 
+ - [The Mind's I: Fantasies And Reflections On Self & Soul](http://www.amazon.com/The-Minds-Fantasies-Reflections-Self/dp/0465030912), Douglas Hofstadter 
+ - [Causality: Models, Reasoning and Inference](http://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X), Judea Pearl
+ - [The Nature of Explanation](http://www.amazon.com/The-Nature-Explanation-Kenneth-Craik/dp/0521094453), Kenneth Craik
+ - [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-Edition/dp/0136042597), Stuart Russell 
+ - [Reasoning About Knowledge](http://www.amazon.com/Reasoning-About-Knowledge-Ronald-Fagin/dp/0262562006), Ronald Fagin
+ - [Metamagical Themas: Questing For The Essence Of Mind And Pattern](http://www.amazon.com/Metamagical-Themas-Questing-Essence-Pattern/dp/0465045669), Douglas Hofstadter 
