@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Screw it, I'm learning QGMLWY"
-date:   2016-02-13 22:30:00
+date:   2016-02-14 22:30:00
 categories: keyboard layouts
 ---
 
