@@ -50,7 +50,7 @@ express)
 <br/>
 
 To better understand the poem, I recommend [this analysis](http://www.shmoop.com/do-not-go-gentle-into-that-good-night/stanza-1-summary.html),
-but because the site is full ads, I'll just inline it all here:
+but because the site is full of ads, I'll just inline it all here:
 
 > ## Get out the microscope, because we’re going through this poem line-by-line.
 
