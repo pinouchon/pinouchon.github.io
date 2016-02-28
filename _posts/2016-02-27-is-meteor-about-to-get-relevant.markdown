@@ -13,7 +13,7 @@ better support for NPM packages, and support for other data sources (and in part
 and [fixes the NPM packages support, and adds module support](https://github.com/meteor/meteor/blob/release-1.3/packages/modules/README.md).
 More details about 1.3 in the [transmission episode 6](https://www.youtube.com/watch?v=bLv2_A-hF8A)
 
-Once that is out of the way, the top priority seem to be Reactive GraphQL, or Apollo, and it 
+Once that is out of the way, the top priority seems to be Reactive GraphQL, or Apollo, and it 
 [looks awesome](https://voice.kadira.io/meteor-s-reactive-graphql-is-just-awesome-b21074231528#.8gtexgl1t)
 
 For more info about Apollo: <!--   
@@ -25,7 +25,7 @@ If successful, the Apollo project will allow Meteor to increase its adoption in 
  - The project being standalone, it can be used independently of Meteor. This allows developers to start using
  parts of the meteor stack incrementally. Note that MDG is also splitting up the main repo by pulling out
  blaze, accounts, email, and then other packages into separate repositories.
- - SQL support (made possible once the Apollo itself, and the Apollo SQL drivers are written) is going to attack a lot more developers. 
- This has been one of the top requested feature for a long while.
+ - SQL support (made possible once the Apollo itself, and the Apollo SQL drivers are written) is going to attract a lot more developers. 
+ This has been one of the top requested feature for a long while. Who wants to be forced to use MongoDB ?
  
 With those two major barriers out of the way, I can't wait to see how Meteor adoption is going to grow.
