@@ -5,6 +5,8 @@ date:   2016-02-28 21:15:00
 categories: ai companies
 ---
 
+
+
 Let's consider the "mission" of some of the leading AI organisations:
 
 # [Deep mind](https://youtu.be/rbsqaJwpu6A?t=6m2s)
