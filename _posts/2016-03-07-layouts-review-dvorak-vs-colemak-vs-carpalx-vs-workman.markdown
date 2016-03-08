@@ -10,7 +10,7 @@ In this post, I'll give my view on some of the most popular optimized keyboard l
 Note: when I talk about the Carpalx, I am talking specifically about the [QGMLWY layout](http://mkweb.bcgsc.ca/carpalx/?full_optimization),
 one of the fully optimized layouts.
 
-Quick disclosure: I have experience with Dvorak and Colemak, and none whatsoever with Colemak and Workman. I've included
+Quick disclosure: I have experience with Dvorak and Carpalx, and none whatsoever with Colemak and Workman. I've included
 the two later ones because they are popular and I have read a lot about them.
 
 <div class="image">
