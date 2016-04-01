@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fun with captionbot.ai"
-date:   2016-03-31 22:30:00
+date:   2016-03-31 21:30:00
 categories: ai deep-learning 
 ---
 

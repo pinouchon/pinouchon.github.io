@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monads, Jokes and Analogies: what do they tell us about perception ?"
-date:   2016-03-30 22:30:00
+date:   2016-03-30 21:30:00
 categories: perception cognition ai 
 ---
 
