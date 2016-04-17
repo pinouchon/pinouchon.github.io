@@ -61,10 +61,10 @@ Later in 5.3:
 > greatly profit from M.
 
 Having introduced the main ideas of the paper, we are ready to consider the different ways C and M can interact
-together. This will be the subject for [part 2](http://pinouchon.github.io/ai/ait/cm/2016/03/19/CM-topologies-part-2.html).
+together. This will be the subject for [part 2](http://pinouchon.github.io/ai/ait/cm/2016/03/20/CM-topologies-part-2.html).
 
 In the meantime, I'll just end this part with a wild speculation:
 This CM topology reminds me a bit about the human brain, where M is the neocortex and C the hypocampus and/or
 thalamus. 
 
-[Go to part 2](http://pinouchon.github.io/ai/ait/cm/2016/03/19/CM-topologies-part-2.html)
+[Go to part 2](http://pinouchon.github.io/ai/ait/cm/2016/03/20/CM-topologies-part-2.html)
