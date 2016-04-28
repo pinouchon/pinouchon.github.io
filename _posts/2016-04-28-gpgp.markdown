@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "GPGP: Generative Probabilistic Graphics Programs"
+date:   2016-04-28 21:30:00
+categories: ai
+---
+
+I first heard about GPGP in this talk by Josh Tenenbaum: [Two architectures for one-shot learning](http://videolectures.net/nipsworkshops2013_tenenbaum_learning/)
+
+It is similar to the idea of analysis by synthesis / Helmholtz machines:
+
+ - [Analysis by synthesis (vanilla)](http://www.cs.toronto.edu/~hinton/absps/vinodicann.pdf)
+ - [Analysis by synthesis with DNN](http://www.mit.edu/~ilkery/papers/yildirimetal_cogsci15.pdf)
+ 
+GPGP is what happens when you take those ideas and throw probabilistic programming into the mix (as Josh Tenenbaum tends to do). For inference, they use the 
+[Metropolis-Hastings](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) algorithm.
+
+It may be a good idea to generalize and throw away the "graphics" part, to have generic "Generative Probabilistic
+Programs". But let's not get ahead of ourselves. Limiting the study to graphics programs seems a good way to first see is this
+idea works at all.
+
+Quoting the abstract from the [GPGP paper](http://arxiv.org/pdf/1307.0060v1.pdf):
+
+> The idea of computer vision as the Bayesian inverse problem to computer graphics
+> has a long history and an appealing elegance, but it has proved difficult to directly
+> implement. Instead, most vision tasks are approached via complex bottom-up
+> processing pipelines. Here we show that it is possible to write short, simple probabilistic
+> graphics programs that define flexible generative models and to automatically
+> invert them to interpret real-world images. Generative probabilistic graphics
+> programs consist of a stochastic scene generator, a renderer based on graphics
+> software, a stochastic likelihood model linking the renderer’s output and the data,
+> and latent variables that adjust the fidelity of the renderer and the tolerance of the
+> likelihood model. Representations and algorithms from computer graphics, originally
+> designed to produce high-quality images, are instead used as the deterministic
+> backbone for highly approximate and stochastic generative models. This formulation
+> combines probabilistic programming, computer graphics, and approximate
+> Bayesian computation, and depends only on general-purpose, automatic inference
+> techniques. We describe two applications: reading sequences of degraded and adversarially
+> obscured alphanumeric characters, and inferring 3D road models from
+> vehicle-mounted camera images. Each of the probabilistic graphics programs we
+> present relies on under 20 lines of probabilistic code, and supports accurate, approximately
+> Bayesian inferences about ambiguous real-world images.
