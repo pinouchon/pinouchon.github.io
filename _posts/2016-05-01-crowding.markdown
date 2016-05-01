@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Crowding"
+date:   2016-05-05 21:30:00
+categories: ai autoencoders
+---
+
+Recently, I briefly talked [about Hinton's capsule theory](http://pinouchon.github.io/ai/2016/04/16/hinton-s-capsule-theory.html).
+
+It has its roots in this paper: [Transforming Auto-encoders](http://www.cs.toronto.edu/~hinton/absps/transauto6.pdf). 
+(I don't know which one came first, capsules or transforming autoencoders. But they are clearly similar).
+
+In the discussion section, one limitation of capsules is brought up:
+
+> Using multiple real-values is the natural way to represent pose information and
+> it is much more efficient than using coarse coding, but it comes at a price:
+> The only thing that binds the values together is the fact that they are the pose
+> outputs of the same capsule so it is not possible for a capsule to represent more
+> than one instance of its visual entity at the same time. It might seem that the
+> inability to allow several, simultaneous instances of the same visual entity in the
+> same limited domain is a serious weakness and indeed it is. It can be ameliorated
+> by making each of the lowest-level capsules operate over a very limited region of
+> the pose space and only allowing larger regions for more complex visual entities
+> that are much less densely distributed. But however small the region, it will
+> always be possible to confound the system by putting two instances of the same
+> visual entity with slightly different poses in the same region. The phenomenon
+> known as “crowding” [[9]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2772078/) suggests that this type of confusion may occur in human
+> vision.
+
+A quick word about Crowding: (quoting from [The uncrowded window of object recognition](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2772078/), [pdf](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2772078/pdf/nihms87909.pdf))
+
+> It is now emerging that vision is usually limited by object spacing rather than size. The visual system
+> recognizes an object by detecting and then combining its features. ‘Crowding’ occurs when objects
+> are too close together and features from several objects are combined into a jumbled percept
+
+Wikipedia has a nice picture to illustrate [crowding](https://en.wikipedia.org/wiki/Crowding):
+
+<div class="image">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/CrowdingDemo.gif" alt="" />
+  <p>
+  A demonstration of the crowding effect. Fixate on the "x" and attempt to identify the central (or single) letter appearing to the right. The presence of flankers should make the task more difficult.
+  </p>
+</div>
+
+If capsules suffer from crowding the same way the human visual system does, it wouldn't be such bad news. This is still
+a limitation, but it is a tradeoff that nature was willing to make (in the evolution of the neocortex),
+ so perhaps it is a good one.
