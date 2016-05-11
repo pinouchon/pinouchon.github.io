@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Salakhutdinov"
-date:   2016-05-05 21:30:00
+date:   2016-05-02 21:30:00
 categories: ai
 ---
 
