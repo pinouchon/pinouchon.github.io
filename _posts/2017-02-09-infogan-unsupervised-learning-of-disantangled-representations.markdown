@@ -5,8 +5,8 @@ date:   2017-02-09 22:00:00
 categories: deep-learning mutual-information representation-learning
 ---
 
-Nate Soares has this great post where [he ponders what the brain is](http://mindingourway.com/what-sort-of-thing-a-brain-is/).
-His main message is to show the need for human rationality, but I think that his view about the brain has a
+In this great post: [What sort of thing a brain is](http://mindingourway.com/what-sort-of-thing-a-brain-is/),
+Nate Soares makes a case for the need for human rationality, but I think that his view about the brain as a
 mutual-information machine is even more profound:
 
 

@@ -5,15 +5,15 @@ date:   2017-02-12 22:00:00
 categories: deep-learning GAN
 ---
 
-Andrej Karpathy has this landmark post about the 
+Andrej Karpathy wrote this landmark post about the
 [Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 
-I want to make a similar post about Generative Adversarial Networks, on GANs for short. 
+Generative Adversarial Networks, or GANs for short, also seem more powerful than they should be.
 This technique feels gimmicky: we create a generator and a discriminator
 network, and then we have them fool one another... And yet, the results are so great, they are hard
 to believe.
 
-I want to mention 3 great examples (but there are many others, and still many more to come...)
+3 variations of this idea:
 
  - the [InfoGAN that I covered in a previous post](http://pinouchon.github.io/deep-learning/mutual-information/representation-learning/2017/02/09/infogan-unsupervised-learning-of-disantangled-representations.html)
  - the [3dGAN](http://3dgan.csail.mit.edu/). [paper here](http://3dgan.csail.mit.edu/papers/3dgan_nips.pdf)

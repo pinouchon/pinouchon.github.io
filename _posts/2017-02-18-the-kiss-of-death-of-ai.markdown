@@ -5,9 +5,8 @@ date:   2017-02-18 21:00:00
 categories: ai
 ---
 
-Scott Phoenix, cofounder of [vicarious](http://www.vicarious.com/), has this great concept of the "Kiss of death of AI".
-
-From this interview: 
+Scott Phoenix, cofounder of [vicarious](http://www.vicarious.com/), talks about the "Kiss of death of AI"
+in this interview:
 [Vicarious' Scott Phoenix on AI & race to unlock human brain to create AGI, our last invention](https://youtu.be/KRPFm_k-LEM?t=21m50s)
 (link starts at 21m50s)
 
