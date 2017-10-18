@@ -9,14 +9,15 @@ Since high school, I had always been fascinated by intelligence. At the time, th
 shadowed by another one: computers. So I ended up in computer
 science school. After graduating, my love for intelligence was still kicking but
 I had to earn a living, so I took a job as a programmer; only learning about AI and ML with the little
-energy I had left from work. My position as a developer-wannabe-AI-researcher was uncomfortable, so I formed a plan
- to make the best out of my situation. (because my twenties were running out, a plan I had to make, and fast):
+energy I had left after work. My position as a developer-wannabe-AI-researcher was uncomfortable, so I formed a plan
+ to make the best out of my situation. (because my twenties were running out, I had to make a plan, and fast):
  
 > Switch careers by quitting my job and studying ML/AI full time on my own, for the longest period that I can afford.
  
 With this in mind, it was just a matter of executing properly and not be lured back by attractive job offers for CRUD-type
-work. (CRUD stands for Create Read Update Delete, denoting a type of application that consists mostly of putting
-form data into a database, reading it back and displaying it). It it looks boring, it's because it is.
+work that I used to be doing. (CRUD stands for Create Read Update Delete, denoting a type of application that consists mostly of putting
+form data into a database, reading it back and displaying it). It it sounds boring, it's because it is.
+
 I other words, my career switch is about "getting
 out of the CRUD" and into AI.
 
