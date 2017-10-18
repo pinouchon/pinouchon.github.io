@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Chapter 1"
+date:   2017-10-18 12:00:00
+categories: misc
+---
+
+Since high school, I had always been fascinated by intelligence. At the time, this fascination was not strong enough and
+shadowed by another one: computers. So I ended up in computer
+science school. After graduating, my love for intelligence was still kicking but
+I had to earn a living, so I took a job as a programmer; only learning about AI and ML with the little
+energy I had left from work. My position as a developer-wannabe-AI-researcher was uncomfortable, so I formed a plan
+ to make the best out of my situation. (because my twenties were running out, a plan I had to make, and fast):
+ 
+> Switch careers by quitting my job and studying ML/AI full time on my own, for the longest period that I can afford.
+ 
+With this in mind, it was just a matter of executing properly and not be lured back by attractive job offers for CRUD-type
+work. (CRUD stands for Create Read Update Delete, denoting a type of application that consists mostly of putting
+form data into a database, reading it back and displaying it). It it looks boring, it's because it is.
+I other words, my career switch is about "getting
+out of the CRUD" and into AI.
+
+
+---
+<br/>
+
+The switch leading to my new life actually started two months ago. But before I get into it, let me talk about Candlekeep.
+
+
+Candlekeep is where you start in the game of Baldur's Gate. It is a fortress-library on top of a crag. You are raised
+here by your adoptive father, Gorion. You spend a peaceful childhood here.
+
+Then at some point (which corresponds to the beginning of the game), Gorion tells you the following:
+
+> This is very unnerving, I know, but you must trust me. It is very important that you pack your possessions 
+> so that we may leave Candlekeep immediately. Hurry, for there is no time to tarry! 
+> The keep is well protected but not invulnerable.
+
+Shortly after leaving you are ambushed by an Armored Figure accompanied by two Ogres and two Thugs, 
+one of which does some minor damage to you before Gorion tells you to hide and attempts to fight them off. 
+Gorion is murdered in front of your eyes, and so ends the Baldur's Gate Prologue.
+
+<img src="/images/chapter-1.jpg" style=""/>
+
+And there your are, out in the open, looting the corpse of your dead adoptive father, not sure about what will
+happen next.
+
+---
+<br/>
+
+So what about my new life?
+
+For the most part, it looks like this:
+
+<img src="/images/chapter1/new_life1.png" style=""/>
+
+**and this**
+<img src="/images/chapter1/new_life2.png" style=""/>
+
+**and this**
+<img src="/images/chapter1/new_life3.png" style=""/>
+
+**and this**
+<img src="/images/chapter1/new_life4.png" style=""/>
+
+**and this**
+<img src="/images/chapter1/new_life5.png" style=""/>
+
+**and this**
+<img src="/images/chapter1/new_life6.png" style="width:550px"/>
+
+*(just taking a few screenshots of my open tabs)*
+
+And it feels like chapter one has finally begun.
+
