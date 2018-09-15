@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+*“We don't rise to the level of our expectations, we fall to the 
+level of our training.” ― Archilochus.* 
+
 My name is Benjamin Crouzier. I am a lifting, coding, juggling, blogging, meditating 
 and generally self-improving faster than you are.
 
@@ -16,6 +19,8 @@ a multistage rocket:
  - To build a safe AGI
  - To automate most of everything, mind upload ourselves, hack into the parent universe and 
    answer the hard philosophical questions including how to pronounce gif. 
+   
+I am committed and willing to put in all the hard work necessary to make that happen.
 
 Links about me: 
 
