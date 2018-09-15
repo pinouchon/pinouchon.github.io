@@ -10,8 +10,8 @@ and generally self-improving faster than you are.
 I'm on a big mission to create and AGI and have some fun with it. To reach that goal, my plan is
 a multistage rocket:
 
- - Create an [algorithmic trader](github.com/tufa)
- - To finance a [research startup](tufa.ai)
+ - Create an [algorithmic trader](https://github.com/tufa)
+ - To finance a [research startup](http://tufa.ai)
  - To study AI/ML/reasoning
  - To build a safe AGI
  - To automate most of everything, mind upload ourselves, hack into the parent universe and 
