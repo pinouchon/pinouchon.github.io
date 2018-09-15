@@ -17,6 +17,8 @@ a multistage rocket:
  - To automate most of everything, mind upload ourselves, hack into the parent universe and 
    answer the hard philosophical questions including how to pronounce gif. 
 
+Links about me: 
+
  - Github: [https://github.com/pinouchon](https://github.com/pinouchon)
  - Stackoverflow: [http://stackoverflow.com/users/311744/pinouchon](http://stackoverflow.com/users/311744/pinouchon)
  - Email: b.crouzier at gmail
