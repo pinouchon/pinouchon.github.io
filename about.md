@@ -15,7 +15,7 @@ a multistage rocket:
  - To study AI/ML/reasoning
  - To build a safe AGI
  - To automate most of everything, mind upload ourselves, hack into the parent universe and 
-   answer the hard questions including how to pronounce gif. 
+   answer the hard philosophical questions including how to pronounce gif. 
 
  - Github: [https://github.com/pinouchon](https://github.com/pinouchon)
  - Stackoverflow: [http://stackoverflow.com/users/311744/pinouchon](http://stackoverflow.com/users/311744/pinouchon)
