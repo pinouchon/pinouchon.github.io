@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "TIL#19"
+date:   2018-09-16 00:58:44
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - [TRP is] like a magic trick, people always want to see the trick without knowing how it's doneo
+ - but I know that a steady sea never made a skilled sailor. 
+ - you do really fall to the level of your training 
+ 
+Things:
+ - first stronglifts 5x5 workout
+ - fix candles_for_metadata
+ - pair with dany
+ - setup til script

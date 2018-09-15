@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "TIL#6"
+date:   2017-05-14 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - Documented myself about the different deep learning approaches to chatbots
+ - There are retrieval and generative models. Both can make use of deep learning techniques
+ - Vinyals and Sutskever have good papers: seq2seq and a neural conversational model
+ - I managed to schedule my airbnb for the HuggingFace New York trip
+ - The approach I want to have for my small chatbot is to fiddle with the semantic space
+ of a neural language model (a char rnn or word embedding). Script the manipulation of that
+ embedding and see how it affect the output of the network  
+ - The AI safety meetup was quite interesting: we discussed the paper "concrete problems
+ in ai safety"
+ - Began watching a video of Manning about how to do reasoning with neural nets  

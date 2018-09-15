@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "TIL#3"
+date:   2017-05-09 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - More administrative stafus
+ - Call with HuggingFace: good fit, but research is applied. They suggest that I spend a week
+   to code a small project in New Work, which I probably will do.
+   Overall I'm mostly interested.
+   Pluses:
+     + probably good package: market pay and options as 10th employee
+     + E2 vida, New York
+     + good alignment about the research direction and culture
+     + comfortable
+   Minuses:
+     + research is super applied (this is a huge negative point)
+     + less choice to follow the research direction that I want: my opinion and preferences
+       will matter a bit, but not that much
+     + less upside if research goes well 
+   With regards to Tufa: more comfortable, less risk, less upside, less freedom, good
+   opportunity to reboot my network
+ - Visit the doctor
+ - Google announced Dupleix, which is a very natural and impressive next step with their 
+   assistant. AI and deep learning is definitely here to stay, big tech companies are all
+   betting big on AI. 

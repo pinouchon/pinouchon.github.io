@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "TIL#1"
+date:   2017-05-07 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - I found that calculating candles and doing pandas aggregations lazily when loading each
+   candle period is too slow. Do most of the aggregations are done before training in a
+   eager-loading fashion. This create issues with adding noise and feature engineering.
+ - Refactoring of the dataloading of the trader. Using DataLoader, Dataset and ConcatDataset classes.
+ - Debugging of the data preparation pipeline 

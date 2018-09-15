@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "TIL#17"
+date:   2018-09-13 21:00:00
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - "The point of the Red Pill is not so that you will hate women; 
+   it is so that you will not hate them for things that they can never be." 
+
+Things:
+ - setup barbell
+ - read stronglifts 5x5
+ - meetup AI safety  

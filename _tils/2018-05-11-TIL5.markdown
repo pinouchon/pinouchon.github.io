@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "TIL#5"
+date:   2017-05-11 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - I played with period length and the MA-diff strategy of the trader
+ - It seems that the MA-diff is helpful, but not that much (maybe something like 20%)
+ - I created a mode to switch between MA-diff and no-MA-diff easily, and I fixed the
+ visualisation for the case with MA-diff.
+ - I exchanged emails with hugging face to setup the week-trial
+ - 

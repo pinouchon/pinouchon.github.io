@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "TIL#13"
+date:   2018-09-04 21:00:00
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - Moving on: a very important skill, be it for relationships or a todo list item.
+ - Learn to speak. Keep doing BTP (or loud reading). Do read along, ghost-reading, red-aloud
+ - Be more selfish. I should do things for myself first, and I'll always be a little alone inside.
+   And that's fine
+ - Remember: we don't rise to the level of our expectations, we fall to the level of our training
+
+Things:
+ - Fix candle cache 5m
+ - setup tests
+ - help Antoine with convergence

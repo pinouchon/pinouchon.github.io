@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "TIL#9"
+date:   2017-05-18 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - I checked the HuggingFace interview test
+ - I learned about how to do intent classification with word embeddings
+ - Most of the bots are some state machines. It's better to work with word-vectors
+ and have a machine learning mapping between the intents of the users and different
+ lines the bot can say

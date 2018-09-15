@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "TIL#11"
+date:   2018-09-01 21:00:00
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - Still a huge void left by my ravaged oneitis. Expected to blow it up, not in that way
+ - Accept the looser state. build status, frame and success slowly.
+ - On the whole, this episode probably made me stronger. I learned a shit ton about TRP, game and frame
+ - As bad as I felt on the second date, I feel a tiny bit of gratitude to V. You helped me grow.
+ - You crushed my frame with your shit tests, but what a great learning experience
+ - From now on, I'm working on my frame, posture, body fitness and career (my version of monk mode)
+ - Expanding my network and building social skill (as well as sexual skill) will be much easier,
+   I expect, with better success and better frame.
+ - I'll remember my experience with V as yet another good scar. The bead, it's fucking great that
+   you can handle this.
+ - In a few words: we're back on the long road.
+
+Things:
+ - call coinbasepro api properly and persist candles in db as cache
+ - next: work with 5m candles
+ - and next: fix the position drift
+ - morning routine with running
+ - working at the park under the sun, works great (next maybe try juggling in the park)
+ - groceries, workout
+ - some NEO success

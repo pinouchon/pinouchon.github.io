@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "TIL#16"
+date:   2018-09-12 21:00:00
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - leaning no-EF
+ - difficulty banging code with all Tufa/EF snafus 
+
+Things:
+ - Youtube fast still going strong
+ - Quite a bit of admin/calls/discussion for EF vs no EF
+ - Call Elspeth => big selling. Don't worry everything is fine
+ - Call Stevie => Shit smells bad. I wouldn't touch it 
+ - EF: no tech founder. Paris cohort admins: no tech either. Is it too much to ask
+   from an investor? No. Stevie approves
+ - Update founders agreement
+ - Create tufa time tracking document 

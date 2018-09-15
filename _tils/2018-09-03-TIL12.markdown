@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "TIL#12"
+date:   2018-09-03 21:00:00
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - Didn't manage high work hours today. Slipped up with pg video (good tough) 
+ - Starting a startup is like catching a dragon by the tail (if you're successful)
+ - Researched creatine. Looks beneficial.
+
+Things:
+ - Good badminton
+ - Still good 2h of work
+ - candle5m and api rate limit done
+ - next up is hooking with the API and working on the position drift

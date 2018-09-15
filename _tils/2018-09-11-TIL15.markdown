@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "TIL#15"
+date:   2018-09-11 21:00:00
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - Youtube fast going strong
+ - EF discussion: can we invest the 90k in the trader?
+ - Ways to be more productive? Now that I'm getting better at the art of showing up
+
+Things
+ - Help Antoine refactor his trader
+ - Multi mode, and start writing backtest in SHADOW/JIT

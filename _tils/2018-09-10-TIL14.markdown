@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "TIL#14"
+date:   2018-09-10 21:00:00
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - Keep going with SOMOD
+ - Working right after meditation works fine
+
+Things:
+ - Get correct position from exchange
+ - Next: create a test scenario to trigger many JIT_SHADOW trader_runs
+ - And next: check candles and predictions
+ - Checked gym, ordered barbell instead
+ - Carrefour is good. Ran some errands: including goddamn keys
+ - Finally got the creatine
+ - Checked some TRP: Non-neediness, outcome independence, care-free attitude.. 
+   all of this comes when you find something more fulfilling than pussy. Suddenly 
+   the value of it plummets and you realise you don't need anything but you and your mission.  

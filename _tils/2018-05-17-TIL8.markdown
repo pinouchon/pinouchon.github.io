@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "TIL#8"
+date:   2017-05-17 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - Read the attention paper
+ - Read Deep Learning Based Chatbot Models
+ - Went to the AI meetup by blablacar

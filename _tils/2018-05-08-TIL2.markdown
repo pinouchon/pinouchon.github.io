@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "TIL#2"
+date:   2017-05-08 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - Some administrative stafus
+ - I read naive set theory. The chapter about inverses, and numbers
+ - I worked a bit on the trader: as expected, the generalization behavior is 
+   different with different values of fee_damp. But overall the behavior is the
+   same than without the dataloader, which is a good sign
+ - I watched this video from Koray Kavukcuoglu: 
+   [From Generative Models to Generative Agents](https://www.youtube.com/watch?v=N5oZIO8pE40).
+   He explains the merits of deep RL, their training pipelines, and an approach named SPIRAL
+   where they learn to control a tool in a fixed environment. This is a form of program 
+   synthesis, the program synthesized being the tool-controlling program. Paper here: 
+   https://arxiv.org/pdf/1804.01118.pdf 

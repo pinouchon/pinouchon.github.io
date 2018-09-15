@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "TIL#4"
+date:   2017-05-10 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - I implemented a feature engineering idea called MA diff, where instead of feeding the trading
+ neural net the OHLCV format (open, high, low, close, volume), I feed a moving average MA, then
+ the "close - MA", and then "close - low" and "close - high". The idea is that the prices are
+ more easily interpreted in relation to a baseline and between themselves, than in absolute values.
+ 
+ The counterargument to this is that a sufficiently powerful neural net model will learn these
+ dependencies without trouble. With that said, I think the MA-diff data representation makes
+ sense, so I tried it and I got a 10-20% increase in generated profit, so it seems worth the
+ trouble. I still need to compare it more thoroughly with OHLCV, but it's already promising.
+ - A surprising finding of the MA-diff representation was tha I could remove all other
+ engineered features without a performance penalty - and in particular the RSI features.
+ Without MA-diff, the RSI features provided a big boost in performance. I'd like to investigate
+ this some more as well
+ - I watched the LeCun Talk at the CCBM conference. He gave his classic talk about common-sence
+ as the ability to fill in the blanks, Intelligence as world-modelling and making predictions.
+ I tend to agree with most of what he says.
+ - A meta-point about productivity methodology: the differential discipline idea seems to work
+ pretty well and keep me honest. So it's not just a great idea to make your machine learning
+ model differentiable and optimizable, you should make your life that way too!   

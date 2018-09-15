@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "TIL#7"
+date:   2017-05-15 21:00:00
+categories: til
+---
+
+Here is a quick rundown about what I did today:
+ - I implemented the "more data" feature: now the trader is trained with BTCUSD
+ in addition to BTCEUR. It raises performance from 125 to 148
+ - I watched a talk of Manning where he presents the MAC net architecture to have
+ neural networks do reasoning tasks. On the clever dataset, this approach performs
+ better than DDRProg, FiLM and relation networks. One of the big ideas is to separate
+ control from memory in the modules. 

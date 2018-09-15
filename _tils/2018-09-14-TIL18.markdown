@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "TIL#18"
+date:   2018-09-14 21:00:00
+categories: til
+---
+
+Summary of today:
+Thoughts:
+ - differential programming + word vectors + ploth => differentiable concepts ! 
+ 
+Things:
+ - Errands: grab new credit card
+ - buy clamps
+ - buy table?
+ - reorder furniture to fit squat rack
+ - finish reading about stronglifts 5x5
+ - tempted to apply to DM
+ - fix trigger_trader_runners, begin check candles (training vs prediction)
