@@ -7,8 +7,8 @@ permalink: /about/
 > “We don't rise to the level of our expectations, we fall to the 
 level of our training.” ― Archilochus.* 
 
-My name is Benjamin Crouzier. I am a lifting, coding, juggling, blogging, meditating 
-and generally self-improving faster than you are.
+My name is Benjamin Crouzier. Most of the time, I am a coding, meditating, 
+lifting, juggling, blogging and self-improving.
 
 I'm on a big mission to create and AGI and have some fun with it. To reach that goal, my plan is
 a multistage rocket:
@@ -17,8 +17,9 @@ a multistage rocket:
  - To finance a [research startup](http://tufa.ai)
  - To study AI/ML/reasoning
  - To build a safe AGI
- - To automate most of everything, mind upload ourselves, hack into the parent universe and 
-   answer the hard philosophical questions including how to pronounce gif. 
+ - Then use it to automate most of everything, mind upload ourselves, 
+   hack into the parent universe and 
+   answer hard philosophical questions such as how to pronounce gif. 
    
 I am committed and willing to put in all the hard work necessary to make that happen.
 
